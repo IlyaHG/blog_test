@@ -1,0 +1,17 @@
+
+.navbar-brand {
+    color: white;
+}
+
+.navbar-nav .nav-link {
+    color: white;
+}
+
+.form-control {
+    background: white;
+    color: black;
+}
+
+.btn {
+    color: white;
+}
